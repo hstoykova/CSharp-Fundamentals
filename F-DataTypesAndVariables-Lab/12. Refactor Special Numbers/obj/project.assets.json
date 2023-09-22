@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hstoykova5\\source\\repos\\F - Data Types and Variables - Lab\\12. Refactor Special Numbers\\12. Refactor Special Numbers.csproj",
+      "projectUniqueName": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Lab\\12. Refactor Special Numbers\\12. Refactor Special Numbers.csproj",
       "projectName": "12. Refactor Special Numbers",
-      "projectPath": "C:\\Users\\hstoykova5\\source\\repos\\F - Data Types and Variables - Lab\\12. Refactor Special Numbers\\12. Refactor Special Numbers.csproj",
+      "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Lab\\12. Refactor Special Numbers\\12. Refactor Special Numbers.csproj",
       "packagesPath": "C:\\Users\\hstoykova5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hstoykova5\\source\\repos\\F - Data Types and Variables - Lab\\12. Refactor Special Numbers\\obj\\",
+      "outputPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Lab\\12. Refactor Special Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

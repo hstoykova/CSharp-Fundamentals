@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hstoykova5\\source\\repos\\F - Data Types and Variables - Lab\\10. Lower or Upper\\10. Lower or Upper.csproj": {}
+    "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Lab\\10. Lower or Upper\\10. Lower or Upper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hstoykova5\\source\\repos\\F - Data Types and Variables - Lab\\10. Lower or Upper\\10. Lower or Upper.csproj": {
+    "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Lab\\10. Lower or Upper\\10. Lower or Upper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hstoykova5\\source\\repos\\F - Data Types and Variables - Lab\\10. Lower or Upper\\10. Lower or Upper.csproj",
+        "projectUniqueName": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Lab\\10. Lower or Upper\\10. Lower or Upper.csproj",
         "projectName": "10. Lower or Upper",
-        "projectPath": "C:\\Users\\hstoykova5\\source\\repos\\F - Data Types and Variables - Lab\\10. Lower or Upper\\10. Lower or Upper.csproj",
+        "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Lab\\10. Lower or Upper\\10. Lower or Upper.csproj",
         "packagesPath": "C:\\Users\\hstoykova5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hstoykova5\\source\\repos\\F - Data Types and Variables - Lab\\10. Lower or Upper\\obj\\",
+        "outputPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Lab\\10. Lower or Upper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

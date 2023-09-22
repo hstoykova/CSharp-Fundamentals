@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hstoykova5\\source\\repos\\F-DataTypesAndVariables-Exercise\\01.IntegerOperations\\01.IntegerOperations.csproj": {}
+    "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Exercise\\01.IntegerOperations\\01.IntegerOperations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hstoykova5\\source\\repos\\F-DataTypesAndVariables-Exercise\\01.IntegerOperations\\01.IntegerOperations.csproj": {
+    "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Exercise\\01.IntegerOperations\\01.IntegerOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hstoykova5\\source\\repos\\F-DataTypesAndVariables-Exercise\\01.IntegerOperations\\01.IntegerOperations.csproj",
+        "projectUniqueName": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Exercise\\01.IntegerOperations\\01.IntegerOperations.csproj",
         "projectName": "01.IntegerOperations",
-        "projectPath": "C:\\Users\\hstoykova5\\source\\repos\\F-DataTypesAndVariables-Exercise\\01.IntegerOperations\\01.IntegerOperations.csproj",
+        "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Exercise\\01.IntegerOperations\\01.IntegerOperations.csproj",
         "packagesPath": "C:\\Users\\hstoykova5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hstoykova5\\source\\repos\\F-DataTypesAndVariables-Exercise\\01.IntegerOperations\\obj\\",
+        "outputPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Exercise\\01.IntegerOperations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

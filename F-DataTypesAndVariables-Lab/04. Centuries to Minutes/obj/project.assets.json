@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hstoykova5\\source\\repos\\F - Data Types and Variables - Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj",
+      "projectUniqueName": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj",
       "projectName": "04. Centuries to Minutes",
-      "projectPath": "C:\\Users\\hstoykova5\\source\\repos\\F - Data Types and Variables - Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj",
+      "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Lab\\04. Centuries to Minutes\\04. Centuries to Minutes.csproj",
       "packagesPath": "C:\\Users\\hstoykova5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hstoykova5\\source\\repos\\F - Data Types and Variables - Lab\\04. Centuries to Minutes\\obj\\",
+      "outputPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Lab\\04. Centuries to Minutes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

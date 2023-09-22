@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hstoykova5\\source\\repos\\F - Data Types and Variables - Lab\\11. Refactor Volume of Pyramid\\11. Refactor Volume of Pyramid.csproj",
+      "projectUniqueName": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Lab\\11. Refactor Volume of Pyramid\\11. Refactor Volume of Pyramid.csproj",
       "projectName": "11. Refactor Volume of Pyramid",
-      "projectPath": "C:\\Users\\hstoykova5\\source\\repos\\F - Data Types and Variables - Lab\\11. Refactor Volume of Pyramid\\11. Refactor Volume of Pyramid.csproj",
+      "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Lab\\11. Refactor Volume of Pyramid\\11. Refactor Volume of Pyramid.csproj",
       "packagesPath": "C:\\Users\\hstoykova5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hstoykova5\\source\\repos\\F - Data Types and Variables - Lab\\11. Refactor Volume of Pyramid\\obj\\",
+      "outputPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-DataTypesAndVariables-Lab\\11. Refactor Volume of Pyramid\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
