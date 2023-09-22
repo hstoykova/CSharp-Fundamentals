@@ -1,0 +1,14 @@
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.exe
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.deps.json
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.runtimeconfig.json
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.runtimeconfig.dev.json
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.dll
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.pdb
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.AssemblyInfo.cs
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.dll
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.pdb
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.genruntimeconfig.cache

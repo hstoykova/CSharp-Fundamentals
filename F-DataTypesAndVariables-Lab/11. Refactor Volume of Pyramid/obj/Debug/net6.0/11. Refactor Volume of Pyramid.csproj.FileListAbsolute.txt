@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\net6.0\11. Refactor Volume of Pyramid.exe
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\net6.0\11. Refactor Volume of Pyramid.deps.json
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\net6.0\11. Refactor Volume of Pyramid.runtimeconfig.json
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\net6.0\11. Refactor Volume of Pyramid.dll
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\net6.0\11. Refactor Volume of Pyramid.pdb
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net6.0\11. Refactor Volume of Pyramid.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net6.0\11. Refactor Volume of Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net6.0\11. Refactor Volume of Pyramid.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net6.0\11. Refactor Volume of Pyramid.AssemblyInfo.cs
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net6.0\11. Refactor Volume of Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net6.0\11. Refactor Volume of Pyramid.dll
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net6.0\refint\11. Refactor Volume of Pyramid.dll
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net6.0\11. Refactor Volume of Pyramid.pdb
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net6.0\11. Refactor Volume of Pyramid.genruntimeconfig.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net6.0\ref\11. Refactor Volume of Pyramid.dll

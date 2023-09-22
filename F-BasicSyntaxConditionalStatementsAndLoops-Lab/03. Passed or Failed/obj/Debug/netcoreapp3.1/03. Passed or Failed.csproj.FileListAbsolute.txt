@@ -1,0 +1,14 @@
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.exe
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.deps.json
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.runtimeconfig.json
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.runtimeconfig.dev.json
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.dll
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\bin\Debug\netcoreapp3.1\03. Passed or Failed.pdb
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.AssemblyInfo.cs
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.dll
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.pdb
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\03. Passed or Failed\obj\Debug\netcoreapp3.1\03. Passed or Failed.genruntimeconfig.cache

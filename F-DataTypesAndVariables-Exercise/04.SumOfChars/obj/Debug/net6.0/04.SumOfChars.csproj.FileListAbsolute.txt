@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\source\repos\F-DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.exe
+C:\Users\hstoykova5\source\repos\F-DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.deps.json
+C:\Users\hstoykova5\source\repos\F-DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.runtimeconfig.json
+C:\Users\hstoykova5\source\repos\F-DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.dll
+C:\Users\hstoykova5\source\repos\F-DataTypesAndVariables-Exercise\04.SumOfChars\bin\Debug\net6.0\04.SumOfChars.pdb
+C:\Users\hstoykova5\source\repos\F-DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\source\repos\F-DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\source\repos\F-DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\source\repos\F-DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.AssemblyInfo.cs
+C:\Users\hstoykova5\source\repos\F-DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\source\repos\F-DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.dll
+C:\Users\hstoykova5\source\repos\F-DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\refint\04.SumOfChars.dll
+C:\Users\hstoykova5\source\repos\F-DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.pdb
+C:\Users\hstoykova5\source\repos\F-DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\04.SumOfChars.genruntimeconfig.cache
+C:\Users\hstoykova5\source\repos\F-DataTypesAndVariables-Exercise\04.SumOfChars\obj\Debug\net6.0\ref\04.SumOfChars.dll

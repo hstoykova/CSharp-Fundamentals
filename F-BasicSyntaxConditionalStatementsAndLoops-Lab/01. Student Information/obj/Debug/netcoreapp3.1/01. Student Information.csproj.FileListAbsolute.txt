@@ -1,0 +1,14 @@
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.exe
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.deps.json
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.runtimeconfig.json
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.runtimeconfig.dev.json
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.dll
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.pdb
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.AssemblyInfo.cs
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.dll
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.pdb
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.genruntimeconfig.cache

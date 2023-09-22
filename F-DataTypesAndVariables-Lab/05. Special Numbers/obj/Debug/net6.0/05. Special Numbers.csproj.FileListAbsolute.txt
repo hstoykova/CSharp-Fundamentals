@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.exe
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.deps.json
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.runtimeconfig.json
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.dll
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net6.0\05. Special Numbers.pdb
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.AssemblyInfo.cs
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.dll
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net6.0\refint\05. Special Numbers.dll
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.pdb
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net6.0\05. Special Numbers.genruntimeconfig.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net6.0\ref\05. Special Numbers.dll

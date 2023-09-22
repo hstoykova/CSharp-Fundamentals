@@ -1,0 +1,14 @@
+C:\Users\hstoykova5\source\repos\F - Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.exe
+C:\Users\hstoykova5\source\repos\F - Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.deps.json
+C:\Users\hstoykova5\source\repos\F - Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.runtimeconfig.json
+C:\Users\hstoykova5\source\repos\F - Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.runtimeconfig.dev.json
+C:\Users\hstoykova5\source\repos\F - Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.dll
+C:\Users\hstoykova5\source\repos\F - Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.pdb
+C:\Users\hstoykova5\source\repos\F - Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\source\repos\F - Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\source\repos\F - Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\source\repos\F - Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.AssemblyInfo.cs
+C:\Users\hstoykova5\source\repos\F - Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\source\repos\F - Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.dll
+C:\Users\hstoykova5\source\repos\F - Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.pdb
+C:\Users\hstoykova5\source\repos\F - Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.genruntimeconfig.cache

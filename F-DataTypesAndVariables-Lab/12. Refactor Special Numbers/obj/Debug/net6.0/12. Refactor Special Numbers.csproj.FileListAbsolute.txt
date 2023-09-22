@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net6.0\12. Refactor Special Numbers.exe
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net6.0\12. Refactor Special Numbers.deps.json
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net6.0\12. Refactor Special Numbers.runtimeconfig.json
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net6.0\12. Refactor Special Numbers.dll
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net6.0\12. Refactor Special Numbers.pdb
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.AssemblyInfo.cs
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.dll
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net6.0\refint\12. Refactor Special Numbers.dll
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.pdb
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net6.0\12. Refactor Special Numbers.genruntimeconfig.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net6.0\ref\12. Refactor Special Numbers.dll

@@ -1,0 +1,14 @@
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.exe
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.deps.json
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.runtimeconfig.json
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.runtimeconfig.dev.json
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.dll
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.pdb
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.AssemblyInfo.cs
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.dll
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.pdb
+C:\Users\hstoykova5\source\repos\Fundamentals - Basic Syntax, Conditional Statements and Loops - Lab\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.genruntimeconfig.cache

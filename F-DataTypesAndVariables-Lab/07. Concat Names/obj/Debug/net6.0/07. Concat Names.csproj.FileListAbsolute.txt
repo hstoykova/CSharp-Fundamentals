@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\07. Concat Names\obj\Debug\net6.0\07. Concat Names.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\07. Concat Names\obj\Debug\net6.0\07. Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\07. Concat Names\obj\Debug\net6.0\07. Concat Names.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\07. Concat Names\obj\Debug\net6.0\07. Concat Names.AssemblyInfo.cs
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\07. Concat Names\obj\Debug\net6.0\07. Concat Names.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\07. Concat Names\bin\Debug\net6.0\07. Concat Names.exe
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\07. Concat Names\bin\Debug\net6.0\07. Concat Names.deps.json
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\07. Concat Names\bin\Debug\net6.0\07. Concat Names.runtimeconfig.json
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\07. Concat Names\bin\Debug\net6.0\07. Concat Names.dll
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\07. Concat Names\bin\Debug\net6.0\07. Concat Names.pdb
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\07. Concat Names\obj\Debug\net6.0\07. Concat Names.dll
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\07. Concat Names\obj\Debug\net6.0\refint\07. Concat Names.dll
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\07. Concat Names\obj\Debug\net6.0\07. Concat Names.pdb
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\07. Concat Names\obj\Debug\net6.0\07. Concat Names.genruntimeconfig.cache
+C:\Users\hstoykova5\source\repos\F - Data Types and Variables - Lab\07. Concat Names\obj\Debug\net6.0\ref\07. Concat Names.dll

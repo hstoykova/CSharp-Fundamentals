@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\source\repos\F - BasicSyntaxConditionalStatementsAndLoopsExercise\06. Strong number\bin\Debug\net6.0\06. Strong number.exe
+C:\Users\hstoykova5\source\repos\F - BasicSyntaxConditionalStatementsAndLoopsExercise\06. Strong number\bin\Debug\net6.0\06. Strong number.deps.json
+C:\Users\hstoykova5\source\repos\F - BasicSyntaxConditionalStatementsAndLoopsExercise\06. Strong number\bin\Debug\net6.0\06. Strong number.runtimeconfig.json
+C:\Users\hstoykova5\source\repos\F - BasicSyntaxConditionalStatementsAndLoopsExercise\06. Strong number\bin\Debug\net6.0\06. Strong number.dll
+C:\Users\hstoykova5\source\repos\F - BasicSyntaxConditionalStatementsAndLoopsExercise\06. Strong number\bin\Debug\net6.0\06. Strong number.pdb
+C:\Users\hstoykova5\source\repos\F - BasicSyntaxConditionalStatementsAndLoopsExercise\06. Strong number\obj\Debug\net6.0\06. Strong number.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\source\repos\F - BasicSyntaxConditionalStatementsAndLoopsExercise\06. Strong number\obj\Debug\net6.0\06. Strong number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\source\repos\F - BasicSyntaxConditionalStatementsAndLoopsExercise\06. Strong number\obj\Debug\net6.0\06. Strong number.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\source\repos\F - BasicSyntaxConditionalStatementsAndLoopsExercise\06. Strong number\obj\Debug\net6.0\06. Strong number.AssemblyInfo.cs
+C:\Users\hstoykova5\source\repos\F - BasicSyntaxConditionalStatementsAndLoopsExercise\06. Strong number\obj\Debug\net6.0\06. Strong number.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\source\repos\F - BasicSyntaxConditionalStatementsAndLoopsExercise\06. Strong number\obj\Debug\net6.0\06. Strong number.dll
+C:\Users\hstoykova5\source\repos\F - BasicSyntaxConditionalStatementsAndLoopsExercise\06. Strong number\obj\Debug\net6.0\refint\06. Strong number.dll
+C:\Users\hstoykova5\source\repos\F - BasicSyntaxConditionalStatementsAndLoopsExercise\06. Strong number\obj\Debug\net6.0\06. Strong number.pdb
+C:\Users\hstoykova5\source\repos\F - BasicSyntaxConditionalStatementsAndLoopsExercise\06. Strong number\obj\Debug\net6.0\06. Strong number.genruntimeconfig.cache
+C:\Users\hstoykova5\source\repos\F - BasicSyntaxConditionalStatementsAndLoopsExercise\06. Strong number\obj\Debug\net6.0\ref\06. Strong number.dll
