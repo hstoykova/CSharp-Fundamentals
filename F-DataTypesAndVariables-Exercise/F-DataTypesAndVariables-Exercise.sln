@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.WaterOverflow", "07.Wate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.BeerKegs", "08.BeerKegs\08.BeerKegs.csproj", "{BD207CC8-9E42-487F-B5E1-1998502849A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SpiceMustFlow", "09.SpiceMustFlow\09.SpiceMustFlow.csproj", "{AD3CE897-4691-4E1D-8091-05329CFD97A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.SpiceMustFlow", "09.SpiceMustFlow\09.SpiceMustFlow.csproj", "{AD3CE897-4691-4E1D-8091-05329CFD97A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.PokeMon", "10.PokeMon\10.PokeMon.csproj", "{083EC2B5-3F04-4442-97E2-F91ACD4D2A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Snowballs", "11.Snowballs\11.Snowballs.csproj", "{DAD91E32-4A9F-4E75-AB58-04707425C44D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{AD3CE897-4691-4E1D-8091-05329CFD97A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD3CE897-4691-4E1D-8091-05329CFD97A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD3CE897-4691-4E1D-8091-05329CFD97A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083EC2B5-3F04-4442-97E2-F91ACD4D2A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083EC2B5-3F04-4442-97E2-F91ACD4D2A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083EC2B5-3F04-4442-97E2-F91ACD4D2A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083EC2B5-3F04-4442-97E2-F91ACD4D2A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD91E32-4A9F-4E75-AB58-04707425C44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD91E32-4A9F-4E75-AB58-04707425C44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD91E32-4A9F-4E75-AB58-04707425C44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD91E32-4A9F-4E75-AB58-04707425C44D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
