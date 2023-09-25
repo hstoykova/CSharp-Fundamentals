@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\03.GamingStore\bin\Debug\net6.0\03.GamingStore.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\03.GamingStore\bin\Debug\net6.0\03.GamingStore.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\03.GamingStore\bin\Debug\net6.0\03.GamingStore.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\03.GamingStore\bin\Debug\net6.0\03.GamingStore.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\03.GamingStore\bin\Debug\net6.0\03.GamingStore.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\03.GamingStore\obj\Debug\net6.0\03.GamingStore.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\03.GamingStore\obj\Debug\net6.0\03.GamingStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\03.GamingStore\obj\Debug\net6.0\03.GamingStore.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\03.GamingStore\obj\Debug\net6.0\03.GamingStore.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\03.GamingStore\obj\Debug\net6.0\03.GamingStore.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\03.GamingStore\obj\Debug\net6.0\03.GamingStore.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\03.GamingStore\obj\Debug\net6.0\refint\03.GamingStore.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\03.GamingStore\obj\Debug\net6.0\03.GamingStore.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\03.GamingStore\obj\Debug\net6.0\03.GamingStore.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\03.GamingStore\obj\Debug\net6.0\ref\03.GamingStore.dll
