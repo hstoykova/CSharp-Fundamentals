@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\\Demo\\Demo.csproj",
-      "projectName": "Demo",
-      "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\\Demo\\Demo.csproj",
+      "projectUniqueName": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\\Demo\\06.MessagesV02.csproj",
+      "projectName": "06.MessagesV02",
+      "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\\Demo\\06.MessagesV02.csproj",
       "packagesPath": "C:\\Users\\hstoykova5\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-MoreExerciseBasicSyntaxCondStatementsAndLoopss\\Demo\\obj\\",
       "projectStyle": "PackageReference",
