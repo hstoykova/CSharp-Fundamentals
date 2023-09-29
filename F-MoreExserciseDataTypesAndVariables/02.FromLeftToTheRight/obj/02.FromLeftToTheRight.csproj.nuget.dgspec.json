@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-MoreExserciseDataTypesAndVariables\\01.DataTypeFinder\\01.DataTypeFinder.csproj": {}
+    "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-MoreExserciseDataTypesAndVariables\\02.FromLeftToTheRight\\02.FromLeftToTheRight.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-MoreExserciseDataTypesAndVariables\\01.DataTypeFinder\\01.DataTypeFinder.csproj": {
+    "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-MoreExserciseDataTypesAndVariables\\02.FromLeftToTheRight\\02.FromLeftToTheRight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-MoreExserciseDataTypesAndVariables\\01.DataTypeFinder\\01.DataTypeFinder.csproj",
-        "projectName": "01.DataTypeFinder",
-        "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-MoreExserciseDataTypesAndVariables\\01.DataTypeFinder\\01.DataTypeFinder.csproj",
+        "projectUniqueName": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-MoreExserciseDataTypesAndVariables\\02.FromLeftToTheRight\\02.FromLeftToTheRight.csproj",
+        "projectName": "02.FromLeftToTheRight",
+        "projectPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-MoreExserciseDataTypesAndVariables\\02.FromLeftToTheRight\\02.FromLeftToTheRight.csproj",
         "packagesPath": "C:\\Users\\hstoykova5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-MoreExserciseDataTypesAndVariables\\01.DataTypeFinder\\obj\\",
+        "outputPath": "C:\\Users\\hstoykova5\\Documents\\GitHub\\CSharp-Fundamentals\\F-MoreExserciseDataTypesAndVariables\\02.FromLeftToTheRight\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
