@@ -1,2 +1,29 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿double[] nums = Console.ReadLine()
+    .Split()
+    .Select(double.Parse)
+    .ToArray();
+
+int[] roundedNums = new int[nums.Length];
+
+for (int i = 0; i < nums.Length; i++)
+{
+    roundedNums[i] = (int)Math.Round(nums[i], MidpointRounding.AwayFromZero);
+    Console.WriteLine($"{nums[i]} => {roundedNums[i]}");
+
+}
+
+
+// Second solution:
+
+
+//double[] nums = Console.ReadLine()
+//    .Split()
+//    .Select(double.Parse)
+//    .ToArray();
+
+//for (int i = 0; i < nums.Length; i++)
+//{
+//    int rounded = (int)Math.Round(nums[i], MidpointRounding.AwayFromZero);
+//    Console.WriteLine($"{nums[i]} => {rounded}");
+
+//}
