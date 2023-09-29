@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\02.PrintNumbersInReverseOrder\bin\Debug\net6.0\02.PrintNumbersInReverseOrder.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\02.PrintNumbersInReverseOrder\bin\Debug\net6.0\02.PrintNumbersInReverseOrder.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\02.PrintNumbersInReverseOrder\bin\Debug\net6.0\02.PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\02.PrintNumbersInReverseOrder\bin\Debug\net6.0\02.PrintNumbersInReverseOrder.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\02.PrintNumbersInReverseOrder\bin\Debug\net6.0\02.PrintNumbersInReverseOrder.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\refint\02.PrintNumbersInReverseOrder.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\02.PrintNumbersInReverseOrder.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\02.PrintNumbersInReverseOrder\obj\Debug\net6.0\ref\02.PrintNumbersInReverseOrder.dll
