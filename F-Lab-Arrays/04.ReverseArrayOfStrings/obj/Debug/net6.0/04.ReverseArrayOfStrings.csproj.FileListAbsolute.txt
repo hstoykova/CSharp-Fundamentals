@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\04.ReverseArrayOfStrings\bin\Debug\net6.0\04.ReverseArrayOfStrings.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\refint\04.ReverseArrayOfStrings.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\04.ReverseArrayOfStrings.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\04.ReverseArrayOfStrings\obj\Debug\net6.0\ref\04.ReverseArrayOfStrings.dll
