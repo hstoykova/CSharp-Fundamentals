@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\06.EvenAndOddSubtraction\bin\Debug\net6.0\06.EvenAndOddSubtraction.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\06.EvenAndOddSubtraction\bin\Debug\net6.0\06.EvenAndOddSubtraction.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\06.EvenAndOddSubtraction\bin\Debug\net6.0\06.EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\06.EvenAndOddSubtraction\bin\Debug\net6.0\06.EvenAndOddSubtraction.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\06.EvenAndOddSubtraction\bin\Debug\net6.0\06.EvenAndOddSubtraction.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\06.EvenAndOddSubtraction\obj\Debug\net6.0\refint\06.EvenAndOddSubtraction.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\06.EvenAndOddSubtraction\obj\Debug\net6.0\06.EvenAndOddSubtraction.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Arrays\06.EvenAndOddSubtraction\obj\Debug\net6.0\ref\06.EvenAndOddSubtraction.dll

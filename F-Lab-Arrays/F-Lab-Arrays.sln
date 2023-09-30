@@ -3,13 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DayOfWeek", "01.DayOfWeek\01.DayOfWeek.csproj", "{CD588600-DC18-4565-A42E-2913D3649596}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.DayOfWeek", "01.DayOfWeek\01.DayOfWeek.csproj", "{CD588600-DC18-4565-A42E-2913D3649596}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PrintNumbersInReverseOrder", "02.PrintNumbersInReverseOrder\02.PrintNumbersInReverseOrder.csproj", "{CEDA2441-9A35-4AAC-99DF-90F20EF1ECA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.PrintNumbersInReverseOrder", "02.PrintNumbersInReverseOrder\02.PrintNumbersInReverseOrder.csproj", "{CEDA2441-9A35-4AAC-99DF-90F20EF1ECA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RoundingNumbers", "03.RoundingNumbers\03.RoundingNumbers.csproj", "{705476BC-CE15-4D28-A9C3-A0A5C1AD1E0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.RoundingNumbers", "03.RoundingNumbers\03.RoundingNumbers.csproj", "{705476BC-CE15-4D28-A9C3-A0A5C1AD1E0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ReverseArrayOfStrings", "04.ReverseArrayOfStrings\04.ReverseArrayOfStrings.csproj", "{C00A1582-A561-4F68-8B1D-DEF0CB8C9870}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ReverseArrayOfStrings", "04.ReverseArrayOfStrings\04.ReverseArrayOfStrings.csproj", "{C00A1582-A561-4F68-8B1D-DEF0CB8C9870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SumEvenNumbers", "05.SumEvenNumbers\05.SumEvenNumbers.csproj", "{C84508DA-21CF-4745-AE56-FBB2B9895F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EvenAndOddSubtraction", "06.EvenAndOddSubtraction\06.EvenAndOddSubtraction.csproj", "{A1F17DF5-2C43-41EE-9C9C-ADD7B62F6B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.EqualArrays", "07.EqualArrays\07.EqualArrays.csproj", "{F2C77B17-A746-4DCA-AD10-359208509FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CondenseArrayToNumber", "08.CondenseArrayToNumber\08.CondenseArrayToNumber.csproj", "{03EA5D79-2952-444F-A86C-D7BDB12B0CE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{C00A1582-A561-4F68-8B1D-DEF0CB8C9870}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C00A1582-A561-4F68-8B1D-DEF0CB8C9870}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C00A1582-A561-4F68-8B1D-DEF0CB8C9870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C84508DA-21CF-4745-AE56-FBB2B9895F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84508DA-21CF-4745-AE56-FBB2B9895F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84508DA-21CF-4745-AE56-FBB2B9895F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84508DA-21CF-4745-AE56-FBB2B9895F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F17DF5-2C43-41EE-9C9C-ADD7B62F6B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F17DF5-2C43-41EE-9C9C-ADD7B62F6B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F17DF5-2C43-41EE-9C9C-ADD7B62F6B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F17DF5-2C43-41EE-9C9C-ADD7B62F6B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C77B17-A746-4DCA-AD10-359208509FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C77B17-A746-4DCA-AD10-359208509FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C77B17-A746-4DCA-AD10-359208509FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C77B17-A746-4DCA-AD10-359208509FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03EA5D79-2952-444F-A86C-D7BDB12B0CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EA5D79-2952-444F-A86C-D7BDB12B0CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EA5D79-2952-444F-A86C-D7BDB12B0CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EA5D79-2952-444F-A86C-D7BDB12B0CE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
