@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\07.MaxSequenceOfEqualElements\bin\Debug\net6.0\07.MaxSequenceOfEqualElements.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\07.MaxSequenceOfEqualElements\bin\Debug\net6.0\07.MaxSequenceOfEqualElements.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\07.MaxSequenceOfEqualElements\bin\Debug\net6.0\07.MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\07.MaxSequenceOfEqualElements\bin\Debug\net6.0\07.MaxSequenceOfEqualElements.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\07.MaxSequenceOfEqualElements\bin\Debug\net6.0\07.MaxSequenceOfEqualElements.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\07.MaxSequenceOfEqualElements\obj\Debug\net6.0\07.MaxSequenceOfEqualElements.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\07.MaxSequenceOfEqualElements\obj\Debug\net6.0\07.MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\07.MaxSequenceOfEqualElements\obj\Debug\net6.0\07.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\07.MaxSequenceOfEqualElements\obj\Debug\net6.0\07.MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\07.MaxSequenceOfEqualElements\obj\Debug\net6.0\07.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\07.MaxSequenceOfEqualElements\obj\Debug\net6.0\07.MaxSequenceOfEqualElements.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\07.MaxSequenceOfEqualElements\obj\Debug\net6.0\refint\07.MaxSequenceOfEqualElements.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\07.MaxSequenceOfEqualElements\obj\Debug\net6.0\07.MaxSequenceOfEqualElements.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\07.MaxSequenceOfEqualElements\obj\Debug\net6.0\07.MaxSequenceOfEqualElements.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\07.MaxSequenceOfEqualElements\obj\Debug\net6.0\ref\07.MaxSequenceOfEqualElements.dll
