@@ -13,7 +13,6 @@ for (int i = 0; i < numbers.Length - 1; i++)
     {
         counter++;
     }
-    
     else
     {
         counter = 1;
