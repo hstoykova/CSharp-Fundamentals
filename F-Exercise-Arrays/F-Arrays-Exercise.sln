@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ArrayRotation", "04.Arra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.TopIntegers", "05.TopIntegers\05.TopIntegers.csproj", "{838BBDEB-A40F-40DB-AAEB-2BEC9B2E3ABB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EqualSum", "06.EqualSum\06.EqualSum.csproj", "{28AF47C8-436B-421E-804C-A51F4E5252A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.EqualSum", "06.EqualSum\06.EqualSum.csproj", "{28AF47C8-436B-421E-804C-A51F4E5252A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.MaxSequenceOfEqualElements", "07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements.csproj", "{B922EA2D-8ED4-46AB-8B1D-974014BEF270}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.MaxSequenceOfEqualElements", "07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements.csproj", "{B922EA2D-8ED4-46AB-8B1D-974014BEF270}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MagicSum", "08.MagicSum\08.MagicSum.csproj", "{00A6DF90-6897-4081-BF0B-91A60FFC1855}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.MagicSum", "08.MagicSum\08.MagicSum.csproj", "{00A6DF90-6897-4081-BF0B-91A60FFC1855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.KaminoFactory", "09.KaminoFactory\09.KaminoFactory.csproj", "{92BD8CC7-8FD8-4CDC-9D0B-B2349151B17A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{00A6DF90-6897-4081-BF0B-91A60FFC1855}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00A6DF90-6897-4081-BF0B-91A60FFC1855}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00A6DF90-6897-4081-BF0B-91A60FFC1855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92BD8CC7-8FD8-4CDC-9D0B-B2349151B17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BD8CC7-8FD8-4CDC-9D0B-B2349151B17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BD8CC7-8FD8-4CDC-9D0B-B2349151B17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BD8CC7-8FD8-4CDC-9D0B-B2349151B17A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

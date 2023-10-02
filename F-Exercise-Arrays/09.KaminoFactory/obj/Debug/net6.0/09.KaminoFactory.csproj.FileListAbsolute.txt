@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\09.KaminoFactory\bin\Debug\net6.0\09.KaminoFactory.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\09.KaminoFactory\bin\Debug\net6.0\09.KaminoFactory.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\09.KaminoFactory\bin\Debug\net6.0\09.KaminoFactory.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\09.KaminoFactory\bin\Debug\net6.0\09.KaminoFactory.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\09.KaminoFactory\bin\Debug\net6.0\09.KaminoFactory.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\09.KaminoFactory\obj\Debug\net6.0\refint\09.KaminoFactory.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\09.KaminoFactory\obj\Debug\net6.0\09.KaminoFactory.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Arrays\09.KaminoFactory\obj\Debug\net6.0\ref\09.KaminoFactory.dll
