@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExercise-Arrays\01.Encrypt,SortAndPrintArray\bin\Debug\net6.0\01.Encrypt,SortAndPrintArray.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExercise-Arrays\01.Encrypt,SortAndPrintArray\bin\Debug\net6.0\01.Encrypt,SortAndPrintArray.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExercise-Arrays\01.Encrypt,SortAndPrintArray\bin\Debug\net6.0\01.Encrypt,SortAndPrintArray.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExercise-Arrays\01.Encrypt,SortAndPrintArray\bin\Debug\net6.0\01.Encrypt,SortAndPrintArray.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExercise-Arrays\01.Encrypt,SortAndPrintArray\bin\Debug\net6.0\01.Encrypt,SortAndPrintArray.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExercise-Arrays\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExercise-Arrays\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExercise-Arrays\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExercise-Arrays\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExercise-Arrays\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExercise-Arrays\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExercise-Arrays\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\refint\01.Encrypt,SortAndPrintArray.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExercise-Arrays\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExercise-Arrays\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\01.Encrypt,SortAndPrintArray.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExercise-Arrays\01.Encrypt,SortAndPrintArray\obj\Debug\net6.0\ref\01.Encrypt,SortAndPrintArray.dll
