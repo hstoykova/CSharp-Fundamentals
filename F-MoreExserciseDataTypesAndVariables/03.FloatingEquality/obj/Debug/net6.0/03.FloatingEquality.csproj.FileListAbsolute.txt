@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\03.FloatingEquality\bin\Debug\net6.0\03.FloatingEquality.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\03.FloatingEquality\bin\Debug\net6.0\03.FloatingEquality.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\03.FloatingEquality\bin\Debug\net6.0\03.FloatingEquality.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\03.FloatingEquality\bin\Debug\net6.0\03.FloatingEquality.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\03.FloatingEquality\bin\Debug\net6.0\03.FloatingEquality.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net6.0\refint\03.FloatingEquality.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net6.0\03.FloatingEquality.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\03.FloatingEquality\obj\Debug\net6.0\ref\03.FloatingEquality.dll
