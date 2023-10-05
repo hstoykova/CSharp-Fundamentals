@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\01.SignofIntegerNumbers\bin\Debug\net6.0\01.SignofIntegerNumbers.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\01.SignofIntegerNumbers\bin\Debug\net6.0\01.SignofIntegerNumbers.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\01.SignofIntegerNumbers\bin\Debug\net6.0\01.SignofIntegerNumbers.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\01.SignofIntegerNumbers\bin\Debug\net6.0\01.SignofIntegerNumbers.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\01.SignofIntegerNumbers\bin\Debug\net6.0\01.SignofIntegerNumbers.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\01.SignofIntegerNumbers\obj\Debug\net6.0\01.SignofIntegerNumbers.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\01.SignofIntegerNumbers\obj\Debug\net6.0\01.SignofIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\01.SignofIntegerNumbers\obj\Debug\net6.0\01.SignofIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\01.SignofIntegerNumbers\obj\Debug\net6.0\01.SignofIntegerNumbers.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\01.SignofIntegerNumbers\obj\Debug\net6.0\01.SignofIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\01.SignofIntegerNumbers\obj\Debug\net6.0\01.SignofIntegerNumbers.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\01.SignofIntegerNumbers\obj\Debug\net6.0\refint\01.SignofIntegerNumbers.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\01.SignofIntegerNumbers\obj\Debug\net6.0\01.SignofIntegerNumbers.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\01.SignofIntegerNumbers\obj\Debug\net6.0\01.SignofIntegerNumbers.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\01.SignofIntegerNumbers\obj\Debug\net6.0\ref\01.SignofIntegerNumbers.dll
