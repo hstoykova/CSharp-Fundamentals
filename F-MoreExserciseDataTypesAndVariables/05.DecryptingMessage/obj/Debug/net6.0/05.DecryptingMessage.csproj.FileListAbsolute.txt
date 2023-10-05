@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\05.DecryptingMessage\bin\Debug\net6.0\05.DecryptingMessage.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\05.DecryptingMessage\bin\Debug\net6.0\05.DecryptingMessage.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\05.DecryptingMessage\bin\Debug\net6.0\05.DecryptingMessage.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\05.DecryptingMessage\bin\Debug\net6.0\05.DecryptingMessage.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\05.DecryptingMessage\bin\Debug\net6.0\05.DecryptingMessage.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\05.DecryptingMessage\obj\Debug\net6.0\refint\05.DecryptingMessage.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\05.DecryptingMessage\obj\Debug\net6.0\05.DecryptingMessage.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MoreExserciseDataTypesAndVariables\05.DecryptingMessage\obj\Debug\net6.0\ref\05.DecryptingMessage.dll
