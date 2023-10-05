@@ -1,4 +1,6 @@
-﻿using System.Xml.Linq;
+﻿// Below solution gives 60% in Judge
+
+using System.Xml.Linq;
 
 int sequencesPerLine = int.Parse(Console.ReadLine());
 string command = Console.ReadLine();
@@ -26,7 +28,7 @@ while (command != "Clone them!")
     for (int i = 0; i < sequences.Length - 1; i++)
     {
         if (sequences[i] == 1 && sequences[i + 1] == 1)
-        { 
+        {
             if (firstOccurence == -1)
             {
                 firstOccurence = i;
@@ -47,7 +49,7 @@ while (command != "Clone them!")
             bestSampleIndex = sampleIndex;
         }
     }
-    
+
     command = Console.ReadLine();
 }
 
