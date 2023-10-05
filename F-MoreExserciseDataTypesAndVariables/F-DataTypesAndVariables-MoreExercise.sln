@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.RefactoringPrimeChecker"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DecryptingMessage", "05.DecryptingMessage\05.DecryptingMessage.csproj", "{16C194F4-0AF0-4338-9FF2-268598D743AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.BalancedBrackets", "06.BalancedBrackets\06.BalancedBrackets.csproj", "{B7C3C157-6ED4-43F4-8C1B-7FFB4D6EC78A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{16C194F4-0AF0-4338-9FF2-268598D743AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16C194F4-0AF0-4338-9FF2-268598D743AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16C194F4-0AF0-4338-9FF2-268598D743AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C3C157-6ED4-43F4-8C1B-7FFB4D6EC78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C3C157-6ED4-43F4-8C1B-7FFB4D6EC78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C3C157-6ED4-43F4-8C1B-7FFB4D6EC78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C3C157-6ED4-43F4-8C1B-7FFB4D6EC78A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
