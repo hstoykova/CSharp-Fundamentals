@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SignofIntegerNumbers", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Grades", "02.Grades\02.Grades.csproj", "{6547F905-FA82-400F-B630-4E322CE8CEE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Calculations", "03.Calculations\03.Calculations.csproj", "{9E902E17-E959-47CF-A09F-4C34994D89D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6547F905-FA82-400F-B630-4E322CE8CEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6547F905-FA82-400F-B630-4E322CE8CEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6547F905-FA82-400F-B630-4E322CE8CEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E902E17-E959-47CF-A09F-4C34994D89D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E902E17-E959-47CF-A09F-4C34994D89D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E902E17-E959-47CF-A09F-4C34994D89D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E902E17-E959-47CF-A09F-4C34994D89D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
