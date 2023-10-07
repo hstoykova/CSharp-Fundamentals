@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\01.SmallestOfThreeNumbers\bin\Debug\net6.0\01.SmallestOfThreeNumbers.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\01.SmallestOfThreeNumbers\bin\Debug\net6.0\01.SmallestOfThreeNumbers.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\01.SmallestOfThreeNumbers\bin\Debug\net6.0\01.SmallestOfThreeNumbers.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\01.SmallestOfThreeNumbers\bin\Debug\net6.0\01.SmallestOfThreeNumbers.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\01.SmallestOfThreeNumbers\bin\Debug\net6.0\01.SmallestOfThreeNumbers.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\01.SmallestOfThreeNumbers\obj\Debug\net6.0\refint\01.SmallestOfThreeNumbers.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\01.SmallestOfThreeNumbers\obj\Debug\net6.0\01.SmallestOfThreeNumbers.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\01.SmallestOfThreeNumbers\obj\Debug\net6.0\ref\01.SmallestOfThreeNumbers.dll
