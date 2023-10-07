@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\10.MultiplyEvensByOdds\bin\Debug\net6.0\10.MultiplyEvensByOdds.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\10.MultiplyEvensByOdds\bin\Debug\net6.0\10.MultiplyEvensByOdds.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\10.MultiplyEvensByOdds\bin\Debug\net6.0\10.MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\10.MultiplyEvensByOdds\bin\Debug\net6.0\10.MultiplyEvensByOdds.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\10.MultiplyEvensByOdds\bin\Debug\net6.0\10.MultiplyEvensByOdds.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\refint\10.MultiplyEvensByOdds.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\10.MultiplyEvensByOdds.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Methods\10.MultiplyEvensByOdds\obj\Debug\net6.0\ref\10.MultiplyEvensByOdds.dll
