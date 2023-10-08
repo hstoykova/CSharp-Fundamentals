@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\06.MiddleCharacters\bin\Debug\net6.0\06.MiddleCharacters.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\06.MiddleCharacters\bin\Debug\net6.0\06.MiddleCharacters.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\06.MiddleCharacters\bin\Debug\net6.0\06.MiddleCharacters.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\06.MiddleCharacters\bin\Debug\net6.0\06.MiddleCharacters.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\06.MiddleCharacters\bin\Debug\net6.0\06.MiddleCharacters.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\06.MiddleCharacters\obj\Debug\net6.0\refint\06.MiddleCharacters.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Methods\06.MiddleCharacters\obj\Debug\net6.0\ref\06.MiddleCharacters.dll
