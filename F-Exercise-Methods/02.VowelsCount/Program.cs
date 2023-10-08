@@ -16,13 +16,25 @@
 
             for (int i = 0; i < text.Length; i++)
             {
-                if (digits[i] == "a" || digits[i] == "e" || digits[i] == "i" ||
-                    digits[i] == "o" || digits[i] == "u")
+                if (IsVowel(digits[i]))
                 {
                     vowelsCount++;
                 }
             }
             Console.WriteLine(vowelsCount);
+        }
+
+        static bool IsVowel(string digit)
+        {
+            if (digit == "a" || digit == "e" || digit == "i" ||
+                    digit == "o" || digit == "u")
+            {
+                return true;
+            }
+            else 
+            { 
+                return false; 
+            }
         }
     }
 }

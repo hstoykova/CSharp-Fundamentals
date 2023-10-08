@@ -10,7 +10,7 @@
             int startCharacter = Math.Min(firstChar, secondChar);
             int endCharacter = Math.Max(firstChar, secondChar);
 
-            for (int i = ++startCharacter; i < endCharacter; i++)
+            for (int i = startCharacter + 1; i < endCharacter; i++)
             {
                 Console.Write((char)i + " ");
             }
