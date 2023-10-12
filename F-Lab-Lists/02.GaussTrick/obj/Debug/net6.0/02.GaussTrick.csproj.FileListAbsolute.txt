@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Lists\02.GaussTrick\bin\Debug\net6.0\02.GaussTrick.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Lists\02.GaussTrick\bin\Debug\net6.0\02.GaussTrick.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Lists\02.GaussTrick\bin\Debug\net6.0\02.GaussTrick.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Lists\02.GaussTrick\bin\Debug\net6.0\02.GaussTrick.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Lists\02.GaussTrick\bin\Debug\net6.0\02.GaussTrick.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Lists\02.GaussTrick\obj\Debug\net6.0\02.GaussTrick.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Lists\02.GaussTrick\obj\Debug\net6.0\02.GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Lists\02.GaussTrick\obj\Debug\net6.0\02.GaussTrick.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Lists\02.GaussTrick\obj\Debug\net6.0\02.GaussTrick.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Lists\02.GaussTrick\obj\Debug\net6.0\02.GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Lists\02.GaussTrick\obj\Debug\net6.0\02.GaussTrick.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Lists\02.GaussTrick\obj\Debug\net6.0\refint\02.GaussTrick.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Lists\02.GaussTrick\obj\Debug\net6.0\02.GaussTrick.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Lists\02.GaussTrick\obj\Debug\net6.0\02.GaussTrick.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Lists\02.GaussTrick\obj\Debug\net6.0\ref\02.GaussTrick.dll
