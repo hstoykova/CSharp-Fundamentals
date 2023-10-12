@@ -28,7 +28,7 @@
                 {
                     case "exchange":
                         int index = int.Parse(arguments[1]);
-                        Exchange(numbers, index);
+                        numbers = Exchange(numbers, index);
                         break;
                     case "max":
                         string maxType = arguments[1]; //type = even || odd
@@ -56,9 +56,22 @@
             Console.WriteLine($"([{string.Join(", ", numbers)}])");
         }
 
-        private static void Exchange(int[] numbers, int index)
+        private static int[] Exchange(int[] numbers, int index)
         {
-            throw new NotImplementedException();
+            int[] changedArray = new int[numbers.Length];
+            int changedArrayIndex = 0;
+            for (int i = index + 1; i < numbers.Length; i++)
+            {
+                changedArray[changedArrayIndex] = numbers[i];
+                changedArrayIndex++;
+            }
+            for (int i = 0; i <= index; i++)
+            {
+                changedArray[changedArrayIndex] = numbers[i];
+                changedArrayIndex++;
+            }
+            return changedArray;
+
         }
         private static void PrintMaxNumber(int[] numbers, string type) //type = "even" || "odd"
         {
