@@ -13,6 +13,7 @@ namespace _06.ListManipulationBasics
             {
                 string[] newCommand = command.Split().ToArray();
                 string firstCommand = newCommand[0];
+
                 int number = int.Parse(newCommand[1]);
 
                 if (firstCommand == "Add")
