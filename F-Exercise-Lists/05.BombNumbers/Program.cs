@@ -36,18 +36,6 @@
                 sequence.RemoveRange(leftIndex, elementsToRemove);
             }
 
-            //if (bombIndex + power < sequence.Count)
-            //{
-            //    sequence.RemoveRange(bombIndex + 1, power);
-            //}
-            //else
-            //{
-            //    sequence.RemoveRange(bombIndex + 1, power);
-            //}
-
-            //sequence.RemoveRange(bombIndex - power, power);
-            //sequence.RemoveRange(bombIndex + 1, power);
-
             Console.WriteLine(sequence.Sum());
         }
     }
