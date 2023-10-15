@@ -4,7 +4,51 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            List <int> sequence = Console.ReadLine()
+                .Split()
+                .Select(int.Parse)
+                .ToList();
+            List<int> special = Console.ReadLine()
+                .Split()
+                .Select(int.Parse)
+                .ToList();
+            int bomb = special[0];
+            int power = special[1];
+
+            int bombIndex;
+
+            while ((bombIndex = sequence.FindIndex(n => n == bomb)) != -1)
+            {
+                int rightmostIndex = bombIndex + power;
+                int leftIndex = bombIndex - power;
+
+                if (leftIndex < 0)
+                {
+                    leftIndex = 0;
+                }
+
+                if (rightmostIndex > sequence.Count - 1)
+                {
+                    rightmostIndex = sequence.Count - 1;
+                }
+
+                int elementsToRemove = rightmostIndex - leftIndex + 1;
+                sequence.RemoveRange(leftIndex, elementsToRemove);
+            }
+
+            //if (bombIndex + power < sequence.Count)
+            //{
+            //    sequence.RemoveRange(bombIndex + 1, power);
+            //}
+            //else
+            //{
+            //    sequence.RemoveRange(bombIndex + 1, power);
+            //}
+
+            //sequence.RemoveRange(bombIndex - power, power);
+            //sequence.RemoveRange(bombIndex + 1, power);
+
+            Console.WriteLine(sequence.Sum());
         }
     }
 }
