@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\GuineaPig\bin\Debug\net6.0\GuineaPig.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\GuineaPig\bin\Debug\net6.0\GuineaPig.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\GuineaPig\bin\Debug\net6.0\GuineaPig.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\GuineaPig\bin\Debug\net6.0\GuineaPig.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\GuineaPig\bin\Debug\net6.0\GuineaPig.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\GuineaPig\obj\Debug\net6.0\GuineaPig.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\GuineaPig\obj\Debug\net6.0\GuineaPig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\GuineaPig\obj\Debug\net6.0\GuineaPig.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\GuineaPig\obj\Debug\net6.0\GuineaPig.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\GuineaPig\obj\Debug\net6.0\GuineaPig.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\GuineaPig\obj\Debug\net6.0\GuineaPig.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\GuineaPig\obj\Debug\net6.0\refint\GuineaPig.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\GuineaPig\obj\Debug\net6.0\GuineaPig.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\GuineaPig\obj\Debug\net6.0\GuineaPig.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\GuineaPig\obj\Debug\net6.0\ref\GuineaPig.dll
