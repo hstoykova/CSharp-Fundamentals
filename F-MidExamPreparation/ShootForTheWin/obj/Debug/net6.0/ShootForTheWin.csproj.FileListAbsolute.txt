@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ShootForTheWin\bin\Debug\net6.0\ShootForTheWin.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ShootForTheWin\bin\Debug\net6.0\ShootForTheWin.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ShootForTheWin\bin\Debug\net6.0\ShootForTheWin.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ShootForTheWin\bin\Debug\net6.0\ShootForTheWin.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ShootForTheWin\bin\Debug\net6.0\ShootForTheWin.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ShootForTheWin\obj\Debug\net6.0\ShootForTheWin.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ShootForTheWin\obj\Debug\net6.0\ShootForTheWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ShootForTheWin\obj\Debug\net6.0\ShootForTheWin.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ShootForTheWin\obj\Debug\net6.0\ShootForTheWin.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ShootForTheWin\obj\Debug\net6.0\ShootForTheWin.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ShootForTheWin\obj\Debug\net6.0\ShootForTheWin.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ShootForTheWin\obj\Debug\net6.0\refint\ShootForTheWin.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ShootForTheWin\obj\Debug\net6.0\ShootForTheWin.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ShootForTheWin\obj\Debug\net6.0\ShootForTheWin.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ShootForTheWin\obj\Debug\net6.0\ref\ShootForTheWin.dll
