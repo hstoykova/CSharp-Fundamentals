@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution02\bin\Debug\net6.0\Numbers.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution02\bin\Debug\net6.0\Numbers.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution02\bin\Debug\net6.0\Numbers.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution02\bin\Debug\net6.0\Numbers.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution02\bin\Debug\net6.0\Numbers.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution02\obj\Debug\net6.0\Numbers.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution02\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution02\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution02\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution02\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution02\obj\Debug\net6.0\Numbers.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution02\obj\Debug\net6.0\refint\Numbers.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution02\obj\Debug\net6.0\Numbers.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution02\obj\Debug\net6.0\Numbers.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution02\obj\Debug\net6.0\ref\Numbers.dll

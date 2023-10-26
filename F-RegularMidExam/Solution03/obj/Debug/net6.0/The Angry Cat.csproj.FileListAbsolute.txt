@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\bin\Debug\net6.0\The Angry Cat.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\bin\Debug\net6.0\The Angry Cat.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\bin\Debug\net6.0\The Angry Cat.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\bin\Debug\net6.0\The Angry Cat.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\bin\Debug\net6.0\The Angry Cat.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\The Angry Cat.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\The Angry Cat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\The Angry Cat.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\The Angry Cat.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\The Angry Cat.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\The Angry Cat.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\refint\The Angry Cat.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\The Angry Cat.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\The Angry Cat.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\ref\The Angry Cat.dll

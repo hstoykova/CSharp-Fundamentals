@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\bin\Debug\net6.0\Solution03.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\bin\Debug\net6.0\Solution03.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\bin\Debug\net6.0\Solution03.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\bin\Debug\net6.0\Solution03.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\bin\Debug\net6.0\Solution03.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\Solution03.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\Solution03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\Solution03.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\Solution03.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\Solution03.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\Solution03.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\refint\Solution03.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\Solution03.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\Solution03.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-RegularMidExam\Solution03\obj\Debug\net6.0\ref\Solution03.dll
