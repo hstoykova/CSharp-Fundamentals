@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ComputerStore\bin\Debug\net6.0\ComputerStore.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ComputerStore\bin\Debug\net6.0\ComputerStore.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ComputerStore\bin\Debug\net6.0\ComputerStore.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ComputerStore\bin\Debug\net6.0\ComputerStore.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ComputerStore\bin\Debug\net6.0\ComputerStore.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ComputerStore\obj\Debug\net6.0\ComputerStore.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ComputerStore\obj\Debug\net6.0\ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ComputerStore\obj\Debug\net6.0\ComputerStore.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ComputerStore\obj\Debug\net6.0\ComputerStore.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ComputerStore\obj\Debug\net6.0\ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ComputerStore\obj\Debug\net6.0\ComputerStore.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ComputerStore\obj\Debug\net6.0\refint\ComputerStore.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ComputerStore\obj\Debug\net6.0\ComputerStore.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ComputerStore\obj\Debug\net6.0\ComputerStore.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-MidExamPreparation\ComputerStore\obj\Debug\net6.0\ref\ComputerStore.dll
