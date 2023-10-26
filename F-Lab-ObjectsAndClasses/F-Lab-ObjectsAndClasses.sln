@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RandomizeWords", "01.Ran
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BigFactorial", "02.BigFactorial\02.BigFactorial.csproj", "{EA1AAF81-2B6D-4B12-9F40-9E742E5D2FE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Songs", "03.Songs\03.Songs.csproj", "{E7A0027C-0CA5-4AE8-BBCC-8F6A931EB5B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EA1AAF81-2B6D-4B12-9F40-9E742E5D2FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA1AAF81-2B6D-4B12-9F40-9E742E5D2FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA1AAF81-2B6D-4B12-9F40-9E742E5D2FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A0027C-0CA5-4AE8-BBCC-8F6A931EB5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A0027C-0CA5-4AE8-BBCC-8F6A931EB5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A0027C-0CA5-4AE8-BBCC-8F6A931EB5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A0027C-0CA5-4AE8-BBCC-8F6A931EB5B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
