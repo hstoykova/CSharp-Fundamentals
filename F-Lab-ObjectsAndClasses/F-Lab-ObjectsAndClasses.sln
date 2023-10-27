@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RandomizeWords", "01.RandomizeWords\01.RandomizeWords.csproj", "{B8A67E97-CAE7-42BF-BFF7-B782B94F8037}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.RandomizeWords", "01.RandomizeWords\01.RandomizeWords.csproj", "{B8A67E97-CAE7-42BF-BFF7-B782B94F8037}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BigFactorial", "02.BigFactorial\02.BigFactorial.csproj", "{EA1AAF81-2B6D-4B12-9F40-9E742E5D2FE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.BigFactorial", "02.BigFactorial\02.BigFactorial.csproj", "{EA1AAF81-2B6D-4B12-9F40-9E742E5D2FE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Songs", "03.Songs\03.Songs.csproj", "{E7A0027C-0CA5-4AE8-BBCC-8F6A931EB5B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Songs", "03.Songs\03.Songs.csproj", "{E7A0027C-0CA5-4AE8-BBCC-8F6A931EB5B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Students", "04.Students\04.Students.csproj", "{DC8653D0-A7F4-40A5-AC7A-E3E216452B2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Students", "04.Students\04.Students.csproj", "{DC8653D0-A7F4-40A5-AC7A-E3E216452B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Students2.0", "05.Students2.0\05.Students2.0.csproj", "{EAF2D913-55B0-4AFD-A958-D6F179682837}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DC8653D0-A7F4-40A5-AC7A-E3E216452B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC8653D0-A7F4-40A5-AC7A-E3E216452B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC8653D0-A7F4-40A5-AC7A-E3E216452B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF2D913-55B0-4AFD-A958-D6F179682837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF2D913-55B0-4AFD-A958-D6F179682837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF2D913-55B0-4AFD-A958-D6F179682837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF2D913-55B0-4AFD-A958-D6F179682837}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
