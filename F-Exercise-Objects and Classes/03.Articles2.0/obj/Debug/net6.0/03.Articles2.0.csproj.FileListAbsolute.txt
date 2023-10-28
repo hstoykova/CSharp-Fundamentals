@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\03.Articles2.0\bin\Debug\net6.0\03.Articles2.0.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\03.Articles2.0\bin\Debug\net6.0\03.Articles2.0.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\03.Articles2.0\bin\Debug\net6.0\03.Articles2.0.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\03.Articles2.0\bin\Debug\net6.0\03.Articles2.0.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\03.Articles2.0\bin\Debug\net6.0\03.Articles2.0.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\03.Articles2.0\obj\Debug\net6.0\refint\03.Articles2.0.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\03.Articles2.0\obj\Debug\net6.0\03.Articles2.0.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\03.Articles2.0\obj\Debug\net6.0\ref\03.Articles2.0.dll

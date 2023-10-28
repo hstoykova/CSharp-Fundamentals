@@ -13,7 +13,7 @@ ChangeAuthor: Chuck Palahniuk
 
 using System.ComponentModel.DataAnnotations;
 
-namespace _02.Articles
+namespace _03.Articles
 {
     class Article
     {
