@@ -30,7 +30,7 @@ namespace _06.StoreBoxes
                 int itemQuantity = int.Parse(tokens[2]);
                 double itemPrice = double.Parse(tokens[3]);
 
-                Item item = new Item();
+                Item item = new Item(); //object
                 item.Name = itemName;
                 item.Price = itemPrice;
 
