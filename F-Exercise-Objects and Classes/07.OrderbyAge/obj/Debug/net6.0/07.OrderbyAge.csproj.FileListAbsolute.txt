@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\07.OrderbyAge\bin\Debug\net6.0\07.OrderbyAge.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\07.OrderbyAge\bin\Debug\net6.0\07.OrderbyAge.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\07.OrderbyAge\bin\Debug\net6.0\07.OrderbyAge.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\07.OrderbyAge\bin\Debug\net6.0\07.OrderbyAge.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\07.OrderbyAge\bin\Debug\net6.0\07.OrderbyAge.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\07.OrderbyAge\obj\Debug\net6.0\refint\07.OrderbyAge.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Objects and Classes\07.OrderbyAge\obj\Debug\net6.0\ref\07.OrderbyAge.dll
