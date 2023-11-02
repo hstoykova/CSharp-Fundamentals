@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Associative Arrays\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Associative Arrays\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Associative Arrays\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Associative Arrays\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Associative Arrays\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Associative Arrays\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Associative Arrays\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Associative Arrays\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Associative Arrays\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Associative Arrays\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Associative Arrays\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Associative Arrays\01.CountRealNumbers\obj\Debug\net6.0\refint\01.CountRealNumbers.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Associative Arrays\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Associative Arrays\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-Associative Arrays\01.CountRealNumbers\obj\Debug\net6.0\ref\01.CountRealNumbers.dll
