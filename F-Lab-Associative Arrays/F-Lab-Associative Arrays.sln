@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CountRealNumbers", "01.CountRealNumbers\01.CountRealNumbers.csproj", "{FFFFABF8-D817-4816-97C7-8146E24E2F2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.CountRealNumbers", "01.CountRealNumbers\01.CountRealNumbers.csproj", "{FFFFABF8-D817-4816-97C7-8146E24E2F2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.OddOccurrences", "02.OddOccurrences\02.OddOccurrences.csproj", "{40661A31-64FB-4087-BA43-6F49AD00D374}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.OddOccurrences", "02.OddOccurrences\02.OddOccurrences.csproj", "{40661A31-64FB-4087-BA43-6F49AD00D374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WordSynonyms", "03.WordSynonyms\03.WordSynonyms.csproj", "{54A68F41-04D2-42AB-958C-135D6A015632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.WordFilter", "04.WordFilter\04.WordFilter.csproj", "{A11F25F1-E614-4BE8-B8AC-9C33F30E4BA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{40661A31-64FB-4087-BA43-6F49AD00D374}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40661A31-64FB-4087-BA43-6F49AD00D374}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40661A31-64FB-4087-BA43-6F49AD00D374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A68F41-04D2-42AB-958C-135D6A015632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A68F41-04D2-42AB-958C-135D6A015632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A68F41-04D2-42AB-958C-135D6A015632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A68F41-04D2-42AB-958C-135D6A015632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11F25F1-E614-4BE8-B8AC-9C33F30E4BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11F25F1-E614-4BE8-B8AC-9C33F30E4BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11F25F1-E614-4BE8-B8AC-9C33F30E4BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11F25F1-E614-4BE8-B8AC-9C33F30E4BA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
