@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\05.Courses\obj\Debug\net6.0\05.Courses.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\05.Courses\obj\Debug\net6.0\05.Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\05.Courses\obj\Debug\net6.0\05.Courses.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\05.Courses\obj\Debug\net6.0\05.Courses.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\05.Courses\obj\Debug\net6.0\05.Courses.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\05.Courses\bin\Debug\net6.0\05.Courses.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\05.Courses\bin\Debug\net6.0\05.Courses.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\05.Courses\bin\Debug\net6.0\05.Courses.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\05.Courses\bin\Debug\net6.0\05.Courses.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\05.Courses\bin\Debug\net6.0\05.Courses.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\05.Courses\obj\Debug\net6.0\05.Courses.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\05.Courses\obj\Debug\net6.0\refint\05.Courses.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\05.Courses\obj\Debug\net6.0\05.Courses.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\05.Courses\obj\Debug\net6.0\05.Courses.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\05.Courses\obj\Debug\net6.0\ref\05.Courses.dll
