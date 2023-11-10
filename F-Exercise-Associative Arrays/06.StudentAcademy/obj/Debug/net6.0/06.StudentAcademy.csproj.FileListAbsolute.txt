@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\06.StudentAcademy\obj\Debug\net6.0\refint\06.StudentAcademy.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Associative Arrays\06.StudentAcademy\obj\Debug\net6.0\ref\06.StudentAcademy.dll

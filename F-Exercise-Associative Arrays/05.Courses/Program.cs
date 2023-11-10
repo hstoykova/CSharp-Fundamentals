@@ -3,10 +3,35 @@ Programming Fundamentals : John Smith
 Programming Fundamentals : Linda Johnson
 JS Core : Will Wilson
 Java Advanced : Harrison White
-end
+end
+
  */
 namespace _05.Courses
 {
+    class Course
+    {
+        public string Name { get; set; }
+        public List<string> StudentNames { get; set; }
+
+        public Course(string name)
+        {
+            Name = name;
+            StudentNames = new List<string>();
+        }
+
+        public override string ToString()
+        {
+            string result = $"{Name}: {StudentNames.Count}\n";
+
+            for (int i = 0; i < StudentNames.Count; i++)
+            {
+                result += $"-- {StudentNames[i]}\n";
+            }
+
+            return result.Trim();
+        }
+    }
+
     internal class Program
     {
         static void Main(string[] args)
@@ -35,27 +60,5 @@ namespace _05.Courses
             }
         }
     }
-    class Course
-    {
-        public string Name { get; set; }
-        public List <string> StudentNames { get; set; }
-
-        public Course(string name)
-        {
-            Name = name;
-            StudentNames = new List<string>();
-        }
-
-        public override string ToString()
-        {
-            string result = $"{Name}: {StudentNames.Count}\n";
-
-            for (int i = 0; i < StudentNames.Count; i++)
-            {
-                result += $"-- {StudentNames[i]}\n";
-            }
-
-            return result.Trim();
-        }
-    }
+    
 }
