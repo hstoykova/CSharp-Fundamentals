@@ -24,4 +24,4 @@ namespace _02.RepeatStrings
             Console.WriteLine(result);
         }
     }
-}
+} 
