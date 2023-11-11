@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReverseStrings", "01.ReverseStrings\01.ReverseStrings.csproj", "{CFA175B6-35E8-43A5-883E-D101F30684D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RepeatStrings", "02.RepeatStrings\02.RepeatStrings.csproj", "{E6CEC735-2D09-4484-A09E-E5413D22F946}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CFA175B6-35E8-43A5-883E-D101F30684D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFA175B6-35E8-43A5-883E-D101F30684D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFA175B6-35E8-43A5-883E-D101F30684D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6CEC735-2D09-4484-A09E-E5413D22F946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CEC735-2D09-4484-A09E-E5413D22F946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CEC735-2D09-4484-A09E-E5413D22F946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CEC735-2D09-4484-A09E-E5413D22F946}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
