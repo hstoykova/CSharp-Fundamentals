@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\04.CaesarCipher\bin\Debug\net6.0\04.CaesarCipher.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\04.CaesarCipher\obj\Debug\net6.0\refint\04.CaesarCipher.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\04.CaesarCipher\obj\Debug\net6.0\04.CaesarCipher.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\04.CaesarCipher\obj\Debug\net6.0\ref\04.CaesarCipher.dll
