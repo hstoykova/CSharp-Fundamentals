@@ -13,10 +13,8 @@ namespace _01.ValidUsernames
             foreach (string name in usenamames)
             {
                 if (name.Length >= 3 && name.Length <= 16 && isValidUsername(name))
-                {
-                    
-                        Console.WriteLine(name);
-                    
+                {       
+                        Console.WriteLine(name);  
                 }
             }
         }

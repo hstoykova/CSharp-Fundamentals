@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\02.CharacterMultiplier\bin\Debug\net6.0\02.CharacterMultiplier.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\02.CharacterMultiplier\obj\Debug\net6.0\refint\02.CharacterMultiplier.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\02.CharacterMultiplier\obj\Debug\net6.0\02.CharacterMultiplier.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Exercise-Text Processing\02.CharacterMultiplier\obj\Debug\net6.0\ref\02.CharacterMultiplier.dll
