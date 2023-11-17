@@ -11,7 +11,7 @@ namespace _02.MatchPhoneNumber
         {
             string input = Console.ReadLine();
             string regex = @"(\+359)(\s|-)(2)\2(\d{3})\2(\d{4})\b";
-            string[] matches = Regex.Matches(input, regex).Select(m => m.Value).ToArray();
+            var matches = Regex.Matches(input, regex).Select(m => m.Value);
 
             Console.WriteLine(string.Join(", ", matches));
         }
