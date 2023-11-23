@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SecretChat", "SecretChat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FancyBarcodes", "02.FancyBarcodes\02.FancyBarcodes.csproj", "{E84BAF20-E994-4BC9-9B87-5665AAE33DFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.P!rates", "03.P!rates\03.P!rates.csproj", "{A32C0012-7E96-4166-8A8B-1A7ECCE08001}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E84BAF20-E994-4BC9-9B87-5665AAE33DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E84BAF20-E994-4BC9-9B87-5665AAE33DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E84BAF20-E994-4BC9-9B87-5665AAE33DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A32C0012-7E96-4166-8A8B-1A7ECCE08001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32C0012-7E96-4166-8A8B-1A7ECCE08001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32C0012-7E96-4166-8A8B-1A7ECCE08001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32C0012-7E96-4166-8A8B-1A7ECCE08001}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
