@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.TheImitationGame\bin\Debug\net6.0\01.TheImitationGame.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.TheImitationGame\bin\Debug\net6.0\01.TheImitationGame.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.TheImitationGame\bin\Debug\net6.0\01.TheImitationGame.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.TheImitationGame\bin\Debug\net6.0\01.TheImitationGame.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.TheImitationGame\bin\Debug\net6.0\01.TheImitationGame.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.TheImitationGame\obj\Debug\net6.0\01.TheImitationGame.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.TheImitationGame\obj\Debug\net6.0\01.TheImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.TheImitationGame\obj\Debug\net6.0\01.TheImitationGame.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.TheImitationGame\obj\Debug\net6.0\01.TheImitationGame.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.TheImitationGame\obj\Debug\net6.0\01.TheImitationGame.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.TheImitationGame\obj\Debug\net6.0\01.TheImitationGame.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.TheImitationGame\obj\Debug\net6.0\refint\01.TheImitationGame.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.TheImitationGame\obj\Debug\net6.0\01.TheImitationGame.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.TheImitationGame\obj\Debug\net6.0\01.TheImitationGame.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.TheImitationGame\obj\Debug\net6.0\ref\01.TheImitationGame.dll
