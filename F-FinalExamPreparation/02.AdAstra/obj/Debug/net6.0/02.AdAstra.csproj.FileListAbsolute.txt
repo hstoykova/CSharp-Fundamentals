@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.AdAstra\bin\Debug\net6.0\02.AdAstra.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.AdAstra\bin\Debug\net6.0\02.AdAstra.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.AdAstra\bin\Debug\net6.0\02.AdAstra.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.AdAstra\bin\Debug\net6.0\02.AdAstra.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.AdAstra\bin\Debug\net6.0\02.AdAstra.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.AdAstra\obj\Debug\net6.0\02.AdAstra.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.AdAstra\obj\Debug\net6.0\02.AdAstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.AdAstra\obj\Debug\net6.0\02.AdAstra.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.AdAstra\obj\Debug\net6.0\02.AdAstra.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.AdAstra\obj\Debug\net6.0\02.AdAstra.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.AdAstra\obj\Debug\net6.0\02.AdAstra.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.AdAstra\obj\Debug\net6.0\refint\02.AdAstra.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.AdAstra\obj\Debug\net6.0\02.AdAstra.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.AdAstra\obj\Debug\net6.0\02.AdAstra.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.AdAstra\obj\Debug\net6.0\ref\02.AdAstra.dll
