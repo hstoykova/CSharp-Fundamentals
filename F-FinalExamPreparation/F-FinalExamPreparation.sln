@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.FancyBarcodes", "02.Fanc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.P!rates", "03.P!rates\03.P!rates.csproj", "{A32C0012-7E96-4166-8A8B-1A7ECCE08001}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TheImitationGame", "01.TheImitationGame\01.TheImitationGame.csproj", "{13E8471E-D032-409F-925F-1113F4FFFD24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.TheImitationGame", "01.TheImitationGame\01.TheImitationGame.csproj", "{13E8471E-D032-409F-925F-1113F4FFFD24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AdAstra", "02.AdAstra\02.AdAstra.csproj", "{C5A9C339-3A0D-46EB-B7DF-7F311478C299}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.AdAstra", "02.AdAstra\02.AdAstra.csproj", "{C5A9C339-3A0D-46EB-B7DF-7F311478C299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ThePianist", "03.ThePianist\03.ThePianist.csproj", "{9006DD3E-3BCB-482B-9EE2-24AD688F3C0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C5A9C339-3A0D-46EB-B7DF-7F311478C299}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5A9C339-3A0D-46EB-B7DF-7F311478C299}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5A9C339-3A0D-46EB-B7DF-7F311478C299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9006DD3E-3BCB-482B-9EE2-24AD688F3C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9006DD3E-3BCB-482B-9EE2-24AD688F3C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9006DD3E-3BCB-482B-9EE2-24AD688F3C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9006DD3E-3BCB-482B-9EE2-24AD688F3C0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
