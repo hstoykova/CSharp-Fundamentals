@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.ActivationKeys\bin\Debug\net6.0\01.ActivationKeys.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.ActivationKeys\bin\Debug\net6.0\01.ActivationKeys.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.ActivationKeys\bin\Debug\net6.0\01.ActivationKeys.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.ActivationKeys\bin\Debug\net6.0\01.ActivationKeys.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.ActivationKeys\bin\Debug\net6.0\01.ActivationKeys.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.ActivationKeys\obj\Debug\net6.0\01.ActivationKeys.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.ActivationKeys\obj\Debug\net6.0\01.ActivationKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.ActivationKeys\obj\Debug\net6.0\01.ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.ActivationKeys\obj\Debug\net6.0\01.ActivationKeys.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.ActivationKeys\obj\Debug\net6.0\01.ActivationKeys.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.ActivationKeys\obj\Debug\net6.0\01.ActivationKeys.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.ActivationKeys\obj\Debug\net6.0\refint\01.ActivationKeys.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.ActivationKeys\obj\Debug\net6.0\01.ActivationKeys.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.ActivationKeys\obj\Debug\net6.0\01.ActivationKeys.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\01.ActivationKeys\obj\Debug\net6.0\ref\01.ActivationKeys.dll
