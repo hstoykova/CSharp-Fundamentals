@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\03.HeroesofCodeandLogicVII\bin\Debug\net6.0\03.HeroesofCodeandLogicVII.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\03.HeroesofCodeandLogicVII\bin\Debug\net6.0\03.HeroesofCodeandLogicVII.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\03.HeroesofCodeandLogicVII\bin\Debug\net6.0\03.HeroesofCodeandLogicVII.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\03.HeroesofCodeandLogicVII\bin\Debug\net6.0\03.HeroesofCodeandLogicVII.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\03.HeroesofCodeandLogicVII\bin\Debug\net6.0\03.HeroesofCodeandLogicVII.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\03.HeroesofCodeandLogicVII\obj\Debug\net6.0\03.HeroesofCodeandLogicVII.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\03.HeroesofCodeandLogicVII\obj\Debug\net6.0\03.HeroesofCodeandLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\03.HeroesofCodeandLogicVII\obj\Debug\net6.0\03.HeroesofCodeandLogicVII.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\03.HeroesofCodeandLogicVII\obj\Debug\net6.0\03.HeroesofCodeandLogicVII.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\03.HeroesofCodeandLogicVII\obj\Debug\net6.0\03.HeroesofCodeandLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\03.HeroesofCodeandLogicVII\obj\Debug\net6.0\03.HeroesofCodeandLogicVII.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\03.HeroesofCodeandLogicVII\obj\Debug\net6.0\refint\03.HeroesofCodeandLogicVII.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\03.HeroesofCodeandLogicVII\obj\Debug\net6.0\03.HeroesofCodeandLogicVII.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\03.HeroesofCodeandLogicVII\obj\Debug\net6.0\03.HeroesofCodeandLogicVII.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\03.HeroesofCodeandLogicVII\obj\Debug\net6.0\ref\03.HeroesofCodeandLogicVII.dll
