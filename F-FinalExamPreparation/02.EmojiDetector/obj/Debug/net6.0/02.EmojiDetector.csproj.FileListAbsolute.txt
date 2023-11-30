@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.EmojiDetector\bin\Debug\net6.0\02.EmojiDetector.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.EmojiDetector\bin\Debug\net6.0\02.EmojiDetector.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.EmojiDetector\bin\Debug\net6.0\02.EmojiDetector.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.EmojiDetector\bin\Debug\net6.0\02.EmojiDetector.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.EmojiDetector\bin\Debug\net6.0\02.EmojiDetector.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.EmojiDetector\obj\Debug\net6.0\02.EmojiDetector.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.EmojiDetector\obj\Debug\net6.0\02.EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.EmojiDetector\obj\Debug\net6.0\02.EmojiDetector.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.EmojiDetector\obj\Debug\net6.0\02.EmojiDetector.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.EmojiDetector\obj\Debug\net6.0\02.EmojiDetector.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.EmojiDetector\obj\Debug\net6.0\02.EmojiDetector.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.EmojiDetector\obj\Debug\net6.0\refint\02.EmojiDetector.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.EmojiDetector\obj\Debug\net6.0\02.EmojiDetector.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.EmojiDetector\obj\Debug\net6.0\02.EmojiDetector.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.EmojiDetector\obj\Debug\net6.0\ref\02.EmojiDetector.dll
