@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SecretChat", "01.SecretC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ActivationKeys", "01.ActivationKeys\01.ActivationKeys.csproj", "{BFAA2972-4BA1-4DD7-906A-AC7E0FC3B481}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.EmojiDetector", "02.EmojiDetector\02.EmojiDetector.csproj", "{05806FFB-AE1F-43BC-8602-F89E46A4ABF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.EmojiDetector", "02.EmojiDetector\02.EmojiDetector.csproj", "{05806FFB-AE1F-43BC-8602-F89E46A4ABF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.HeroesofCodeandLogicVII", "03.HeroesofCodeandLogicVII\03.HeroesofCodeandLogicVII.csproj", "{271DC2A8-BB6E-45CA-8EA4-3651062E0A7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.HeroesofCodeandLogicVII", "03.HeroesofCodeandLogicVII\03.HeroesofCodeandLogicVII.csproj", "{271DC2A8-BB6E-45CA-8EA4-3651062E0A7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PasswordReset", "01.PasswordReset\01.PasswordReset.csproj", "{78034B4F-BD11-4534-ABB3-15769E7AF229}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{271DC2A8-BB6E-45CA-8EA4-3651062E0A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{271DC2A8-BB6E-45CA-8EA4-3651062E0A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{271DC2A8-BB6E-45CA-8EA4-3651062E0A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78034B4F-BD11-4534-ABB3-15769E7AF229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78034B4F-BD11-4534-ABB3-15769E7AF229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78034B4F-BD11-4534-ABB3-15769E7AF229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78034B4F-BD11-4534-ABB3-15769E7AF229}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
