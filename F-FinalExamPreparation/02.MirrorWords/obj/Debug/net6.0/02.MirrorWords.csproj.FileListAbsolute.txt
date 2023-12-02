@@ -1,0 +1,15 @@
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.MirrorWords\bin\Debug\net6.0\02.MirrorWords.exe
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.MirrorWords\bin\Debug\net6.0\02.MirrorWords.deps.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.MirrorWords\bin\Debug\net6.0\02.MirrorWords.runtimeconfig.json
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.MirrorWords\bin\Debug\net6.0\02.MirrorWords.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.MirrorWords\bin\Debug\net6.0\02.MirrorWords.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.MirrorWords\obj\Debug\net6.0\02.MirrorWords.csproj.AssemblyReference.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.MirrorWords\obj\Debug\net6.0\02.MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.MirrorWords\obj\Debug\net6.0\02.MirrorWords.AssemblyInfoInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.MirrorWords\obj\Debug\net6.0\02.MirrorWords.AssemblyInfo.cs
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.MirrorWords\obj\Debug\net6.0\02.MirrorWords.csproj.CoreCompileInputs.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.MirrorWords\obj\Debug\net6.0\02.MirrorWords.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.MirrorWords\obj\Debug\net6.0\refint\02.MirrorWords.dll
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.MirrorWords\obj\Debug\net6.0\02.MirrorWords.pdb
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.MirrorWords\obj\Debug\net6.0\02.MirrorWords.genruntimeconfig.cache
+C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-FinalExamPreparation\02.MirrorWords\obj\Debug\net6.0\ref\02.MirrorWords.dll
