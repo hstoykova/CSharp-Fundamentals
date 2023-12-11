@@ -25,11 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.PasswordReset", "01.Pass
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.MirrorWords", "02.MirrorWords\02.MirrorWords.csproj", "{AD5354FB-BDE6-4723-A4F4-BE33F0B50843}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution1", "Solution1\Solution1.csproj", "{DF3AD8E3-ECB6-4A38-8A9E-0A8916F78B24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution1", "Solution1\Solution1.csproj", "{DF3AD8E3-ECB6-4A38-8A9E-0A8916F78B24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution2", "Solution2\Solution2.csproj", "{14DA1517-8E86-439F-AE91-CC1D0C354BE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution2", "Solution2\Solution2.csproj", "{14DA1517-8E86-439F-AE91-CC1D0C354BE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution3", "Solution3\Solution3.csproj", "{84F44E13-412A-4801-B08D-047F32506218}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution3", "Solution3\Solution3.csproj", "{84F44E13-412A-4801-B08D-047F32506218}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
