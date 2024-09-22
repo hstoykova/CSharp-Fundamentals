@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = _03._Passed_or_Failed
 build_property.ProjectDir = C:\Users\hstoykova5\Documents\GitHub\CSharp-Fundamentals\F-Lab-BasicSyntaxConditionalStatementsAndLoops\03. Passed or Failed\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

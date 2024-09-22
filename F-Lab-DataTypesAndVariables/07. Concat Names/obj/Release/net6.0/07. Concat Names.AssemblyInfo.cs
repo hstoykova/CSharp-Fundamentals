@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07. Concat Names")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3db002be650418ee1f1fcf3fccdef8aa1a7caafe")]
 [assembly: System.Reflection.AssemblyProductAttribute("07. Concat Names")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07. Concat Names")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
